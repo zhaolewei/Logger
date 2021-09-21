@@ -12,7 +12,7 @@ Android 日志打印工具类
 [![](https://jitpack.io/v/zhaolewei/Logger.svg)](https://jitpack.io/#zhaolewei/Logger)
 ```java
 dependencies {
-    implementation 'com.github.zhaolewei:Logger:1.0.0'
+    implementation 'com.github.zhaolewei:Logger:1.0.2'
 }
 ```
 
