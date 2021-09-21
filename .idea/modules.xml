@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Logger.iml" filepath="$PROJECT_DIR$/Logger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loggerlib/loggerlib.iml" filepath="$PROJECT_DIR$/loggerlib/loggerlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Logger.iml" filepath="$PROJECT_DIR$/.idea/modules/Logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Logger.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Logger.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loggerlib/Logger.loggerlib.iml" filepath="$PROJECT_DIR$/.idea/modules/loggerlib/Logger.loggerlib.iml" />
     </modules>
   </component>
 </project>
